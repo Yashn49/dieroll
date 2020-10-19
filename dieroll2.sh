@@ -18,5 +18,5 @@ do
 done
 echo "dice1 got 6 $count1 times"
 echo "dice2 got 6 $count2 times"
-echo "the sum of both dices: " $sum
+echo "the sum of both dices: " $total
 
