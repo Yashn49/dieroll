@@ -3,7 +3,7 @@
 count1=0
 count2=0
 sum=0
-while [ true ]
+while [ 1 ]
 do
  dieroll1=$(((RANDOM%6)+1))
  dieroll2=$(((RANDOM%6)+1))
